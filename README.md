@@ -1,7 +1,7 @@
 - 👋 Hi, I’m K Rohit
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Deep Learning / Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on projects involing Machine Learning.
+- 💞️ I’m looking to collaborate on projects involving Machine Learning and Data Analysis.
 - 📫 How to reach me 
 -  rohitkumar78.rk27@gmail.com
 
